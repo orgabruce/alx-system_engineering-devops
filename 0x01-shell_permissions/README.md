@@ -4,3 +4,4 @@
 3-new_owner is a script that changes file owerner
 4-empty script creates empty file
 5-execute scripts makes executatle
+multiple permission

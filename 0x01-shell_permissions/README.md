@@ -5,3 +5,4 @@
 4-empty script creates empty file
 5-execute scripts makes executatle
 multiple permission
+execute multi-permit

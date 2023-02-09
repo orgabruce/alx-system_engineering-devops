@@ -3,3 +3,4 @@
 2-groups is a script that checks the groups of a current user
 3-new_owner is a script that changes file owerner
 4-empty script creates empty file
+5-execute scripts makes executatle

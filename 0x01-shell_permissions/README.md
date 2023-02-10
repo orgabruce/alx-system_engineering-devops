@@ -9,3 +9,4 @@ execute multi-permit
 james bond
 9-John_Doe adds some permits
 10-mirror_permissions mirros permissoions
+11-directories_permissions permissions on subdirectories of a directory

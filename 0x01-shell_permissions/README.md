@@ -12,3 +12,4 @@ james bond
 11-directories_permissions permissions on subdirectories of a directory
 12-directory_permissions gives more permissions
 13-change_group changes group
+100-change_owner_and_group changes owner and group owner

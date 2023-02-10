@@ -8,3 +8,4 @@ multiple permission
 execute multi-permit
 james bond
 9-John_Doe adds some permits
+10-mirror_permissions mirros permissoions
